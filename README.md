@@ -1,2 +1,1 @@
-# sample-repository
-training purpose
+changing readme file
